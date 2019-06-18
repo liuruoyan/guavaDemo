@@ -1,4 +1,4 @@
-package com.cc.guava.collections;
+package com.cc.guava.range;
 
 import com.google.common.collect.*;
 import org.junit.Test;

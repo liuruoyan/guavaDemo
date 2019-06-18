@@ -1,4 +1,4 @@
-package com.cc.guava.collections;
+package com.cc.guava.util;
 
 import com.google.common.collect.Ordering;
 import org.junit.Test;

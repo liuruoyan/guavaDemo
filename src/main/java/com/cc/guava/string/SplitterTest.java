@@ -1,4 +1,4 @@
-package com.cc.guava.util;
+package com.cc.guava.string;
 
 import com.google.common.base.Splitter;
 import org.junit.Test;

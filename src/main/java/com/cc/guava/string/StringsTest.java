@@ -1,4 +1,4 @@
-package com.cc.guava.util;
+package com.cc.guava.string;
 
 import com.google.common.base.CharMatcher;
 import com.google.common.base.Charsets;
